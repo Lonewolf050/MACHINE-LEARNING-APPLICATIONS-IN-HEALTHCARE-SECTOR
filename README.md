@@ -91,3 +91,5 @@ The Heart disease data set consists of patient data from Cleveland, Hungary, Lon
 * **Akul Goel**
 # Contributions:
 Contributions to this project are welcome! If you find any bugs, have feature requests, or want to contribute enhancements, feel free to open an issue or submit a pull request.
+# License
+This project is licensed under the MIT and Apache 2.0 License - see the LICENSE file for details.
