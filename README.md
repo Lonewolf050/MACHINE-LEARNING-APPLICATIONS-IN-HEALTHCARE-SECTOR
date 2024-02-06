@@ -1,6 +1,7 @@
 # MACHINE-LEARNING-APPLICATIONS-IN-HEALTHCARE-SECTOR (Heart Disease Prediction System)
 Welcome to the Machine Learning Applications in Healthcare Sector repository! This project focuses on leveraging machine learning techniques to address various challenges and opportunities within the healthcare domain. under this domain i have made heart diseases prediction and will add more diseases.
-            ![image](https://github.com/Lonewolf050/MACHINE-LEARNING-APPLICATIONS-IN-HEALTHCARE-SECTOR/assets/106444631/a776a91a-b420-4c12-825b-b35312012865)
+
+  ![image](https://github.com/Lonewolf050/MACHINE-LEARNING-APPLICATIONS-IN-HEALTHCARE-SECTOR/assets/106444631/a776a91a-b420-4c12-825b-b35312012865)
 
 # Project Description
 Heart diseases have emerged as a significant public health concern in India, with a noticeable increase in mortality rates over the past few decades. Studies indicate a 34% rise in death rates due to heart diseases from 1990 to 2016, making it the leading cause of death in the country.
