@@ -1,7 +1,7 @@
 # MACHINE-LEARNING-APPLICATIONS-IN-HEALTHCARE-SECTOR (Heart Disease Prediction System)
 Welcome to the Machine Learning Applications in Healthcare Sector repository! This project focuses on leveraging machine learning techniques to address various challenges and opportunities within the healthcare domain. under this domain i have made heart diseases prediction and will add more diseases.
 
-  ![image](https://github.com/Lonewolf050/MACHINE-LEARNING-APPLICATIONS-IN-HEALTHCARE-SECTOR/assets/106444631/6aeb0638-55f0-40f1-adf2-dc6196e5e627)
+  ![image](https://github.com/Lonewolf050/MACHINE-LEARNING-APPLICATIONS-IN-HEALTHCARE-SECTOR/assets/106444631/5b962144-11c2-4c98-a1f7-ad10487e1737)
 
 # Project Description
 Heart diseases have emerged as a significant public health concern in India, with a noticeable increase in mortality rates over the past few decades. Studies indicate a 34% rise in death rates due to heart diseases from 1990 to 2016, making it the leading cause of death in the country.
@@ -11,6 +11,9 @@ Preventing heart diseases has become imperative, necessitating the development o
 This repository houses a Heart Disease Prediction System powered by machine learning. Leveraging state-of-the-art algorithms and techniques, our system aims to predict heart diseases with high accuracy. By analyzing relevant medical data, including patient demographics, clinical measurements, and lifestyle factors, our models can provide valuable insights into an individual's risk of developing heart diseases.
 Problem Description :
 A dataset is formed by taking into consideration some of the information of 920 individuals. The problem is : based on the given information about each individual we have to calculate that whether that individual will suffer from heart disease.
+
+ ![image](https://github.com/Lonewolf050/MACHINE-LEARNING-APPLICATIONS-IN-HEALTHCARE-SECTOR/assets/106444631/a46efb64-05ae-4c6c-becc-52a0bc18e3bf)
+
 
 # Dataset :
 The Heart disease data set consists of patient data from Cleveland, Hungary, Long Beach and Switzerland. The combined dataset consists of 14 features and 916 samples with many missing values. The features used in here are,
