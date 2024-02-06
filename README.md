@@ -1,4 +1,4 @@
-# MACHINE-LEARNING-APPLICATIONS-IN-HEALTHCARE-SECTOR (Heart Disease Prediction System
+# MACHINE-LEARNING-APPLICATIONS-IN-HEALTHCARE-SECTOR (Heart Disease Prediction System)
 Welcome to the Machine Learning Applications in Healthcare Sector repository! This project focuses on leveraging machine learning techniques to address various challenges and opportunities within the healthcare domain. under this domain i have made heart diseases prediction and will add more diseases.
 
 # Project Description
@@ -74,6 +74,8 @@ The Heart disease data set consists of patient data from Cleveland, Hungary, Lon
 # Graphical User Interface
 
 ![gui with data input](https://github.com/Lonewolf050/MACHINE-LEARNING-APPLICATIONS-IN-HEALTHCARE-SECTOR/assets/106444631/7c1e43ba-da6c-4ca4-85d9-edd3af741829)
+![gui result](https://github.com/Lonewolf050/MACHINE-LEARNING-APPLICATIONS-IN-HEALTHCARE-SECTOR/assets/106444631/e7289d9c-198d-4f0a-8126-4d848a0d9478)
+
 
   
 # Usage:
