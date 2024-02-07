@@ -89,7 +89,7 @@ The Heart disease data set consists of patient data from Cleveland, Hungary, Lon
 * Run the main Python script (main.py) to execute the heart disease prediction system.
 * Follow the instructions provided by the GUI to input your medical data and obtain predictions.
   
-# Contributions: This Project has been Created by-
+# This Project has been Created by-
 * **Aman Kumar** Github Profile :- https://github.com/Lonewolf050
 * **Kartikey Teotia** 
 * **Manas Kumar**
