@@ -82,7 +82,6 @@ The Heart disease data set consists of patient data from Cleveland, Hungary, Lon
 ![gui result](https://github.com/Lonewolf050/MACHINE-LEARNING-APPLICATIONS-IN-HEALTHCARE-SECTOR/assets/106444631/e7289d9c-198d-4f0a-8126-4d848a0d9478)
 
 
-  
 # Usage:
 * Clone the repository to your local machine.
 * Ensure you have the required Python libraries installed. You can install them using pip: pip install -r requirements.txt.
