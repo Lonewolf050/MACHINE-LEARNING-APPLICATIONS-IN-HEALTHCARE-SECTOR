@@ -92,7 +92,7 @@ The Heart disease data set consists of patient data from Cleveland, Hungary, Lon
 * **Aman Kumar** Github Profile :- https://github.com/Lonewolf050
 * **Kartikey Teotia** Github Profile :-  https://github.com/kartikeyteotiachaudhary
 * **Manas Kumar**
-* **Akul Goel**
+* **Akul Goel** :-https://github.com/Akul912
 # Contributions:
 Contributions to this project are welcome! If you find any bugs, have feature requests, or want to contribute enhancements, feel free to open an issue or submit a pull request.
 # License
